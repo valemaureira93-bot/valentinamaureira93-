@@ -20,6 +20,9 @@ A través del análisis, se identificó que la transformación digital ha genera
 
 La transformación digital está funcionando a nivel operativo, pero aún no se ha consolidado a nivel organizacional ni en la experiencia del cliente.
 
+## Visualización 
+Captura de pantalla 2026-04-15 214010.png
+
 ## Herramientas utilizadas
 
 - Power BI  
